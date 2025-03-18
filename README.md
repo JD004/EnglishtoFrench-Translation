@@ -21,11 +21,11 @@ Install dependencies:
 Load the translation model in Colab and run:
 
 from model import translate
-print(translate("Hello, how are you?"))
+print(translate("She is nice"))
 
 Example output:
 
-Bonjour, comment ça va ?
+elle conduit agréable agréable
 
 📜 License
 
