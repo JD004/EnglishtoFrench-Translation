@@ -1,8 +1,8 @@
-EN➡️FR English to French Translation
+## EN➡️FR English to French Translation
 
 This project provides a simple way to translate English text into French using TensorFlow.
 
-📌 Features
+### 📌 Features
 
 ✅ Translates English sentences into French.
 
@@ -10,24 +10,25 @@ This project provides a simple way to translate English text into French using T
 
 ✅ Runs easily on Google Colab.
 
-🚀 How to Use
+### 🚀 How to Use
 
 Open Google Colab.
 
 Install dependencies:
-
+```bash
 !pip install tensorflow
+```
 
 Load the translation model in Colab and run:
 
 from model import translate
 print(translate("She is nice"))
 
-Example output:
+### Example output:
 
 elle conduit agréable agréable
 
-📜 License
+### 📜 License
 
 This project is open-source under the MIT License.
 
