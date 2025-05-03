@@ -12,17 +12,17 @@ This project provides a simple way to translate English text into French using T
 
 ### 🚀 How to Use
 
-Open Google Colab.
+- Open Google Colab.
 
 Install dependencies:
 ```bash
 !pip install tensorflow
 ```
 
-Load the translation model in Colab and run:
+- Load the translation model in Colab and run:
 
-from model import translate
-print(translate("She is nice"))
+- from model import translate
+  print(translate("She is nice"))
 
 ### Example output:
 
